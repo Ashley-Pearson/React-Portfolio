@@ -6,7 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+h1 {
+  font-size: 75px;
+  text-align: center;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -14,10 +17,12 @@
 }
 .nav-item {
   background-color: lightblue;
+  justify-content: center;
 }
 
 .nav-tabs {
   background-color: lightblue;
+  justify-content: right;
 }
 .App-header {
   background-color: #282c34;

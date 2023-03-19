@@ -14,7 +14,7 @@ export default function Footer() {
     return (
         <div className='footer'>
             <a href='https://www.linkedin.com/in/ashley-pearson-578960195/'>
-            <img src='LI-In-Bug.png' alt='LinkedIn'style={styles.footerIcon}></img>
+            <img src='Linkedin_logo_PNG.png' alt='LinkedIn'style={styles.footerIcon}></img>
             </a>
             <a href='https://github.com/Ashley-Pearson'>
                 

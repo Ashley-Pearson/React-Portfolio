@@ -1,5 +1,5 @@
 import React from 'react'
-import { RiLinkedinBoxFill } from "react-icons/ri"
+//import { RiLinkedinBoxFill } from "react-icons/ri"
 
 
 //const styles = {
@@ -13,10 +13,19 @@ import { RiLinkedinBoxFill } from "react-icons/ri"
 
 export default function Footer() {
     return (
-        <div className='footer'>
-            <a href="linkedin.com">
-                <div> <RiLinkedinBoxFill /> </div>
-            </a>
+        <div>
+            <ul className="list-none flex justify-center mx-2 mt-5">
+                <li>
+                    <a
+                        href="https://github.com/Ashley-Pearson"
+                        rel="noreferrer"
+                        target="_blank"
+                    >
+                        <i className="fa-brands fa-square-github text-quaternary text-5xl mx-3"></i>
+                    </a>
+                </li>
+            </ul>
         </div>
-    );
+    )
 }
+

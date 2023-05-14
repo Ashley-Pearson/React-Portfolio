@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
-      <h1>About Me</h1>
-      <p>
+    <div className="text-center my-3">
+      <h2>About</h2>
+      <h2>
        Talk about yourself.
-      </p>
+      </h2>
     </div>
   );
 }

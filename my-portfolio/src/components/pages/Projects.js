@@ -3,10 +3,10 @@ import React from 'react';
 export default function Projects() {
   return (
     <div>
-      <h1>Projects</h1>
+      <center><h1>Projects</h1>
       <p>
         Add Projects here.
-      </p>
+      </p></center>
     </div>
   );
 }

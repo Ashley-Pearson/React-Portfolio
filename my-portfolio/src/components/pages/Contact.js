@@ -6,6 +6,7 @@ export default function Contact() {
       <h1>Contact</h1>
       <p>
       Ashley Pearson
+      Phone: 602-329-2202
       </p>
     </div>
   );

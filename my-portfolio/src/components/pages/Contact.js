@@ -5,7 +5,7 @@ export default function Contact() {
     <div className="text-center my-3">
       <h1>Contact</h1>
       <p>
-      Give Contact info
+      Ashley Pearson
       </p>
     </div>
   );

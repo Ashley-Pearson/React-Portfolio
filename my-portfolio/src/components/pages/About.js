@@ -17,7 +17,7 @@ export default function About() {
       <div className="text-center my-3">
         <h2>My Portfoilio</h2>
         <h2>
-         I am a Jr Developer with a passion for process. I love technology. I also enjoy fitness
+         I am a Jr Developer with a passion for process. I love technology. I also enjoy fitness and food. 
         </h2>
       </div>
     </div>

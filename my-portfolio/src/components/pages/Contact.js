@@ -7,6 +7,7 @@ export default function Contact() {
       <p>
       Ashley Pearson
       Phone: 602-329-2202
+      Email: Ashley.Pearson2202@gmail.com
       </p>
     </div>
   );

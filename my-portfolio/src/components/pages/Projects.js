@@ -7,9 +7,9 @@ export default function Projects() {
       <p>
         Add Projects here.
         <ul>
-          <li> Flix N'Chill</li>
-          <li> Aptly Maintenance Portal </li>
-          <li> Road Sage </li>
+          <li> - Flix N'Chill</li>
+          <li> - Aptly Maintenance Portal </li>
+          <li> - Road Sage </li>
         </ul>
       </p></center>
     </div>
